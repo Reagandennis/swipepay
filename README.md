@@ -1,4 +1,4 @@
-# swipepay
+# Swipepay
 
 A cross-border payment platform.
 
