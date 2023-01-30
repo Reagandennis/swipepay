@@ -1,6 +1,9 @@
 # swipepay
 
-A new Flutter project.
+Swipepay is a fintech startup offering payments at low transaction costs,
+this platform offers mobile transactions at low transaction costs and has multiple intergrated 
+services, the goal of this application is to connect the East African Community and reach the 
+global market in future.
 
 ## Getting Started
 
